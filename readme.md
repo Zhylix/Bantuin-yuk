@@ -46,5 +46,5 @@ Platform gotong royong digital yang menghubungkan mereka yang membutuhkan bantua
 
 1. **Clone atau download project**
    ```bash
-   git clone https://github.com/username/bantuinyuk.git
+   git clone https://github.com/Zhylix/bantuinyuk.git
    cd bantuinyuk
